@@ -20,10 +20,7 @@
     font-style: italic;
 } */
 
-/*id selector */
-#main-language {
-    font-weight: bold;
-}
+
 
 .card {
     display:block;
@@ -43,6 +40,10 @@
     transition: opacity 0.3s ease;
 }
 
+/*id selector */
+#jobtitle {
+    font-weight: bold;
+}
 
 #pic {
     height: 150px;
